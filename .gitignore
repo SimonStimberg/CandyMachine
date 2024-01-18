@@ -1,0 +1,102 @@
+###########################
+# ignore generated binaries
+# but not the data folder
+###########################
+
+/bin/*
+# !/bin/data/
+
+*.mov
+*.mp4
+*.jpg
+*.png
+
+#########
+# general
+#########
+
+[Bb]uild/
+[Oo]bj/
+*.o
+[Dd]ebug*/
+[Rr]elease*/
+*.mode*
+*.app/
+*.pyc
+.svn/
+*.log
+*.sh
+
+########################
+# IDE files which should
+# be ignored
+########################
+
+# XCode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+# XCode 4
+xcuserdata
+*.xcworkspace
+*.xcodeproj
+
+# Code::Blocks
+*.depend
+*.layout
+
+# Visual Studio
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+*.ilk
+*.aps
+ipch/
+
+# Visual Studio Code
+.vscode/*
+.vscode/
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Eclipse
+.metadata
+local.properties
+.externalToolBuilders
+
+##################
+# operating system
+##################
+
+# Linux
+*~
+# KDE
+.directory
+.AppleDouble
+
+# OSX
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+# Windows
+# Image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+# Android
+.csettings
+
+
+
+# for TouchDesigner
+**/Backup/*
+*.*.toe
