@@ -10,3 +10,4 @@ This setup uses compute shaders to calculate the particle physics in parallel on
 
 The system can be interacted with through hand movements, tracked by a Leap Motion sensor. By tilting the left hand, the perspective of the cube can be controlled, while the right hand’s position is used to repulse the particles.
 	
+ 
