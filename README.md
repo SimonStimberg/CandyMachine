@@ -1,9 +1,10 @@
 # Candy Machine
 interactive particle simulation (a technical and interaction study)
 
-(TouchDesigner / compute shaders (GLSL) for physics / Leap Motion sensor)
+technology:  
+TouchDesigner / compute shaders (GLSL) for physics / Leap Motion sensor
 
-[![demo video](https://i.vimeocdn.com/video/1846846394-c191eba5b33e39370178b5ffaf31f2f19558ef31f08b0d9aad48feb3bd6c3c54-d?mw=2880&mh=975&q=70)](https://vimeo.com/942039715/003609dd7c)
+[<img src="https://i.vimeocdn.com/video/1846846394-c191eba5b33e39370178b5ffaf31f2f19558ef31f08b0d9aad48feb3bd6c3c54-d?mw=2880&mh=975&q=70" alt="demo video" width="65%">](https://vimeo.com/942039715/003609dd7c)
 
 
 The Candy Machine is a work-in-progress series of small studies in technology and interaction, exploring the possibilities of shaders in TouchDesigner to model custom real-time physics for a vast amount of particles, combined with live interaction via hand gestures.
